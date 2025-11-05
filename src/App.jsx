@@ -10,7 +10,7 @@ import logo6 from "./assets/logo6.png";
 import logo7 from "./assets/logo7.png";
 import logo8 from "./assets/logo8.png";
 import logo9 from "./assets/logo9.png";
-import logo10 from "./assets/logo10.png";
+
 import akalya from "./assets/akalya.png"; 
 const socials = [
   {
@@ -73,11 +73,7 @@ const logos = [
     desc: "A monogram represents the church identity-Mockup",
    
   },
-  {
-    src: logo10,
-    title: "Boutique Pilates Club",
-    desc: "Elegant minimal logo crafted for a modern fitness brand-Mockup.",
-  },
+ 
   {
     src: logo1,
     title: "Boutique Pilates Club",
